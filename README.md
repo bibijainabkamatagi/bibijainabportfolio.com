@@ -36,6 +36,8 @@ A deep learning-based spinal MRI disease detection project.
 An AI-based project focused on identifying phishing emails.
 
 **Technologies:** Python, Flask, HTML, CSS, JavaScript, Machine Learning.
+[View Project](https://github.com/bibijainabkamatagi/PhishGuard-Email-Phishing-Detector)
+
 
 ## Connect With Me
 
