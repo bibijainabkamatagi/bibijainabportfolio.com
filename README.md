@@ -1,5 +1,4 @@
-
-# Personal Portfolio - Bibi Jainab Kamatagi
+# Personal Portfolio – Bibi Jainab Kamatagi
 
 Welcome to my personal portfolio!
 
@@ -24,24 +23,30 @@ This portfolio showcases my technical skills, projects, education, and professio
 
 ## Featured Projects
 
-### 1. Scanify - Spinal Imaging Assistant
+### 1. Scanify – Spinal Imaging Assistant
 
 A deep learning-based spinal MRI disease detection project.
 
-### 2. PhishGuard - AI-Based Phishing Email Detector
+**Technologies:** React, TypeScript, Tailwind CSS, Python, FastAPI, ConvNeXt, PostgreSQL.
+
+[View Project](https://github.com/bibijainabkamatagi/Scanify-Spinal-MRI-Disease-Detection)
+
+### 2. PhishGuard – AI-Based Phishing Email Detector
 
 An AI-based project focused on identifying phishing emails.
 
+**Technologies:** Python, Flask, HTML, CSS, JavaScript, Machine Learning.
+
 ## Connect With Me
 
-- GitHub: https://github.com/bibijainabkamatagi
-- LinkedIn: https://www.linkedin.com/in/bibijainab-kamatagi/
-- LeetCode: https://leetcode.com/u/BibiJainabKamatagi/
+- **GitHub:** https://github.com/bibijainabkamatagi
+- **LinkedIn:** https://www.linkedin.com/in/bibijainab-kamatagi/
+- **LeetCode:** https://leetcode.com/u/BibiJainabKamatagi/
 
 ## Live Portfolio
 
-Portfolio website deployment update.
+Coming soon! Deployment in progress.
 
 ## Author
 
-Bibi Jainab Kamatagi
+**Bibi Jainab Kamatagi**
