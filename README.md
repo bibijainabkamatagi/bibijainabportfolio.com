@@ -1,13 +1,20 @@
-# Personal Portfolio
 
-Welcome to my personal portfolio! This website showcases my technical skills, projects, and professional background as a Computer Science Engineering student.
+# Personal Portfolio - Bibi Jainab Kamatagi
+
+Welcome to my personal portfolio!
+
+I am a Computer Science and Engineering student interested in Software Development and Artificial Intelligence & Machine Learning.
+
+This portfolio showcases my technical skills, projects, education, and professional background.
 
 ## Technologies Used
+
 - HTML
 - CSS
 - JavaScript
 
 ## Features
+
 - About Me
 - Technical Skills
 - Projects
@@ -15,19 +22,26 @@ Welcome to my personal portfolio! This website showcases my technical skills, pr
 - Contact Information
 - Responsive Design
 
-## Projects
-1. **Scanify** – Spinal Imaging Assistant
-2. **PhishGuard** – AI-Based Phishing Email Detector
+## Featured Projects
+
+### 1. Scanify - Spinal Imaging Assistant
+
+A deep learning-based spinal MRI disease detection project.
+
+### 2. PhishGuard - AI-Based Phishing Email Detector
+
+An AI-based project focused on identifying phishing emails.
 
 ## Connect With Me
-- GitHub: [GitHub Profile](https://github.com/bibijainabkamatagi)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bibijainab-kamatagi/)
-- LeetCode: [LeetCode Profile](https://leetcode.com/u/BibiJainabKamatagi/)
+
+- GitHub: https://github.com/bibijainabkamatagi
+- LinkedIn: https://www.linkedin.com/in/bibijainab-kamatagi/
+- LeetCode: https://leetcode.com/u/BibiJainabKamatagi/
 
 ## Live Portfolio
-Coming soon!
-
-## Author
-Bibi Jainab Kamatagi
 
 Portfolio website deployment update.
+
+## Author
+
+Bibi Jainab Kamatagi
